@@ -35,9 +35,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbright&hide_progress=true&langs_count=10&theme=radical)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake.gif" />
+  <img alt="github-snake" src="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake.gif" />
 </picture>
 
 <!---
