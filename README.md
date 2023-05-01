@@ -33,6 +33,9 @@
 ![Jamesbright Github Stats](https://github-readme-stats.vercel.app/api?username=jamesbright&show_icons=true&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamesbright&theme=ocean-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbright&hide_progress=true&langs_count=10&theme=radical)
+
+![snake gif](https://github.com/jamebright/jamebright/blob/output/github-contribution-grid-snake.gif)
+
 <!---
 jamesbright/jamesbright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
