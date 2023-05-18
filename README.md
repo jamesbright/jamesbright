@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/james-ononiwu-4719519a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/james_ononiwu">
+  <!--<a href="https://twitter.com/james_ononiwu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>-->
 </div>
 <img src="https://komarev.com/ghpvc/?username=jamesbright&style=flat-square&color=blue" alt=""/>
 </div>
