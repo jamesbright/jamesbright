@@ -29,11 +29,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+<!---
 ![Jamesbright Github Stats](https://github-readme-stats.vercel.app/api?username=jamesbright&show_icons=true&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamesbright&theme=ocean-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbright&hide_progress=true&langs_count=10&theme=radical)
-<!---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jamesbright/jamesbright/blob/output/github-contribution-grid-snake.svg" />
