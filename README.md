@@ -11,8 +11,8 @@
 <img src="https://komarev.com/ghpvc/?username=jamesbright&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🌱 I’m focused on Web and AI applications...
-- 📫 You can reach reach me via - jamesononiwu@gmail.com...
+- 🌱 I’m focused on Web and AI applications.
+- 📫 You can reach reach me on - jamesononiwu@gmail.com.
 
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
